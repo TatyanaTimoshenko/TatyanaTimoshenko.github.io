@@ -1,0 +1,38 @@
+h1 {
+    font-size: 36px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 400;
+    border-bottom: 1px solid grey;
+    margin-bottom: 8px;
+}
+
+h3 {
+    font-weight: 400;
+}
+
+#header {
+    text-align: center;
+    margin-bottom: 32px;
+    
+}
+
+p {
+    margin-bottom: 12px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 64px
+}
+
+.header-title2 {
+    font-size: 18px;
+    border-bottom: none;
+    margin-bottom: 10px;
+
+}
